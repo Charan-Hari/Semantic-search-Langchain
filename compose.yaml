@@ -1,0 +1,7 @@
+﻿services:
+  semantic-search-langchain:
+    image: semantic-search-langchain
+    build:
+      context: .
+      dockerfile: Dockerfile
+

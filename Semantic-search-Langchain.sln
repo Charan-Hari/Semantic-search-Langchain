@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semantic-search-Langchain", "Semantic-search-Langchain.csproj", "{10EDEFCF-B5F7-47AB-AC9D-A785A88ACCDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51D11600-B2F9-443F-88AF-A30D918ADB2F}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10EDEFCF-B5F7-47AB-AC9D-A785A88ACCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EDEFCF-B5F7-47AB-AC9D-A785A88ACCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EDEFCF-B5F7-47AB-AC9D-A785A88ACCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EDEFCF-B5F7-47AB-AC9D-A785A88ACCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
